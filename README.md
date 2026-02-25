@@ -2,6 +2,8 @@
 
 This project serves as a comprehensive simulation of Quantitative Research roles within both Commodity Trading and Retail Risk Management. It was developed to demonstrate the technical and analytical rigor required for advanced financial engineering programs.
 
+Tip: If the Jupyter Notebook (.ipynb) fails to load on GitHub, you can view it via nbviewer by pasting the repository URL.
+
 ## 📈 Project Overview
 
 ### Part 1: Energy Derivatives & Pricing
