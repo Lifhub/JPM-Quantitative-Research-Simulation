@@ -25,3 +25,6 @@ Tip: If the Jupyter Notebook (.ipynb) fails to load on GitHub, you can view it v
 *Developed as a portfolio asset for Master in financial engeneering / Quantitative Finance applications.*
 
 **Note on Participation:** This project was completed as part of the J.P. Morgan Quantitative Research Job Simulation on Forage. All datasets provided are synthetic and used exclusively for educational and career-advancement purposes.
+
+## **Certification**
+![JPM Quantitative Research Certificate](assets/certificate.png)
