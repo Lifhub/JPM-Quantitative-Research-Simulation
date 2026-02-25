@@ -20,4 +20,6 @@ This project serves as a comprehensive simulation of Quantitative Research roles
 * **Techniques:** Linear/Logistic Regression, Seasonal Decomposition, Dynamic Programming, Quantitative Finance.
 
 ---
-*Developed as a portfolio asset for Master 225/272 Dauphine | PSL applications.*
+*Developed as a portfolio asset for Master in financial engeneering / Quantitative Finance applications.*
+
+**Note on Participation:** This project was completed as part of the J.P. Morgan Quantitative Research Job Simulation on Forage. All datasets provided are synthetic and used exclusively for educational and career-advancement purposes.
